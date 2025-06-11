@@ -26,4 +26,4 @@ Este é um projeto simples de um sistema bancário desenvolvido em Python, como 
    ```sh
    python App.py
 
-Projeto desenvolvido para fins educacionais no bootcamp Santander - DIO. ```
+Projeto desenvolvido para fins educacionais no bootcamp Santander - DIO.
